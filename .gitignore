@@ -1,0 +1,6 @@
+# Project exclude paths
+/atcrowdfunding02-admin-webui/target/
+/atcrowdfunding03-admin-component/target/
+/atcrowdfunding04-admin-entity/target/
+/atcrowdfunding05-common-util/target/
+/atcrowdfunging06-common-reverse/target/
